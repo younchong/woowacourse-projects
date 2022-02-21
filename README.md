@@ -12,3 +12,14 @@
   | 로또         | | | |
   | 유튜브API     | | | |
   | 지하철노선도   | | | |
+
+<br />
+
+## 👨🏻‍🍼 Level-02
+
+  |   프로젝트    |  Repository  |   PR      |   코드리뷰 정리   |
+  | :---------- | :------: | :--------------: | :---------: |
+  | React-payment   | [React-payment](https://github.com/younchong/react-payments/tree/younchong)  | [PR](https://github.com/nextlevel-2022/react-payments/pull/4) | | 
+  | React-shopping-cart  | [React-shopping-cart](https://github.com/younchong/react-shopping-cart/tree/younchong) |  | |
+  | 행운의 로또 | | | | 
+  | 지하철노선도 | | | |
