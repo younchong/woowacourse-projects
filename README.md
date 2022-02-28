@@ -17,9 +17,9 @@
 
 ## 👨🏻‍🍼 Level-02
 
-  |   프로젝트    |  Repository  |   PR      |   코드리뷰 정리   |
+  |   프로젝트    |  Repository  |  1차 PR      |   2차 PR   |
   | :---------- | :------: | :--------------: | :---------: |
   | React-payment   | [React-payment](https://github.com/younchong/react-payments/tree/younchong)  | [PR](https://github.com/nextlevel-2022/react-payments/pull/4) | | 
-  | React-shopping-cart  | [React-shopping-cart](https://github.com/younchong/react-shopping-cart/tree/younchong) |  | |
+  | React-shopping-cart  | [React-shopping-cart](https://github.com/younchong/react-shopping-cart/tree/younchong) | [PR](https://github.com/nextlevel-2022/react-shopping-cart/pull/2) | |
   | 행운의 로또 | | | | 
   | 지하철노선도 | | | |
