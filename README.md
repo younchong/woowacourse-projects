@@ -8,7 +8,7 @@
   | :---------- | :------: | :--------------: | :---------: |
   | JS-calculator   | [JS-calculator](https://github.com/younchong/javascript-calculator)  | [PR](https://github.com/younchong/javascript-calculator/pull/1) | | 
   | MoonBucks-Menu  | [MoonBucks-Menu](https://github.com/younchong/moonbucks-menu) | [PR](https://github.com/younchong/moonbucks-menu/pull/1) | |
-  | JS-racingcar |[JS-racingcar]https://github.com/younchong/js-racingcar |[PR](https://github.com/younchong/js-racingcar/pull/1) | | 
+  | JS-racingcar |[JS-racingcar](https://github.com/younchong/js-racingcar) |[PR](https://github.com/younchong/js-racingcar/pull/1) | | 
   | 로또         | | | |
   | 유튜브API     | | | |
   | 지하철노선도   | | | |
